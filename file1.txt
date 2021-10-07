@@ -1,0 +1,12 @@
+total 32
+drwxr-xr-x  2 josep josep 4096 sep 30 22:43 .
+drwx------ 17 josep josep 4096 sep 30 22:31 ..
+-rw-r--r--  1 josep josep    0 sep 30 22:43 file1.txt
+-rw-r--r--  1 josep josep    0 sep 30 22:43 file2.txt
+-rw-r--r--  1 josep josep    0 sep 30 22:43 file3.txt
+-rw-r--r--  1 josep josep   51 sep 30 22:43 file4.txt
+-rw-r--r--  1 josep josep  594 sep 30 22:42 file5.txt
+-rwxr-xr-x  1 josep josep  759 sep 30 22:07 for_loop.sh
+-rwxr-xr-x  1 josep josep  123 sep 30 22:27 inputs.sh
+-rwxr-xr-x  1 josep josep  461 sep 30 22:43 outputs.sh
+-rwxr-xr-x  1 josep josep  220 sep 30 22:30 read_file.sh
